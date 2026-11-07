@@ -64,6 +64,7 @@ vite.config.*.timestamp*
 .env.*
 !.env.example
 !.env.sample
+.azure/
 
 # React (CRA)
 .pnp
